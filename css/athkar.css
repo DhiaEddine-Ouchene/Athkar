@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+    font-family:  "Amiri Quran",sans-serif;
+}
+
+body {
+    background-color:  #94B4C1;
+    display: flex;
+    flex-flow: column nowrap;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    row-gap: 1em;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.card {
+    width: 90%;
+    background-color:  #EAE0CF;
+    border-radius: 15px;
+    padding: 1em;
+    box-shadow: 0 0 8px 0px rgb(0 0 0 /0.7);
+    font-weight: 600;
+}
+.card span {
+    font-family: sans-serif;
+    background-color: rgb(94, 94, 206);
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 50%;
+    font-size: 14px;
+    font-weight: 700;
+}
+
