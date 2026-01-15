@@ -36,3 +36,8 @@ body {
     font-weight: 700;
 }
 
+.card h3{
+    color: rgb(204, 6, 253);
+    font-size: 22px;
+    margin-top: -.5em;
+}
